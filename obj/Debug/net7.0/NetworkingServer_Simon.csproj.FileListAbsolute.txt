@@ -1,0 +1,14 @@
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\bin\Debug\net7.0\NetworkingServer_Simon.exe
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\bin\Debug\net7.0\NetworkingServer_Simon.deps.json
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\bin\Debug\net7.0\NetworkingServer_Simon.runtimeconfig.json
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\bin\Debug\net7.0\NetworkingServer_Simon.dll
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\bin\Debug\net7.0\NetworkingServer_Simon.pdb
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.AssemblyInfoInputs.cache
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.AssemblyInfo.cs
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.csproj.CoreCompileInputs.cache
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.dll
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\refint\NetworkingServer_Simon.dll
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.pdb
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\NetworkingServer_Simon.genruntimeconfig.cache
+C:\Users\simon.hall\Documents\Prog\Prog 2\NetworkingServer_Simon\obj\Debug\net7.0\ref\NetworkingServer_Simon.dll
